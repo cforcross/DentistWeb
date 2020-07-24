@@ -1,7 +1,7 @@
 # DentistWeb
 Website for youe Everyday Dentist with Django
 
-#Hosted on PythonAnywhere
+# Hosted on PythonAnywhere
 hosed on pythonAnywehre @ http://cross5.pythonanywhere.com/
 
 # Basic Features
